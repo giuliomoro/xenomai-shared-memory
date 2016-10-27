@@ -1,0 +1,14 @@
+{
+  "name": "shm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mmap-io": "^0.10.1"
+  }
+}
